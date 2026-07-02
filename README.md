@@ -6,22 +6,33 @@ An interactive puzzle game developed using **React Native** where players strate
 
 ---
 
-## 📱 Screenshots
+<h2>📱 Screenshots</h2>
 
-> Add screenshots inside a `screenshots` folder.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c6713be-3762-421e-b657-7e243ece946d" width="220"/>
+  <img src="https://github.com/user-attachments/assets/27b289d2-6b9b-4990-9b7f-3718392a7fb6" width="220"/>
+  <img src="https://github.com/user-attachments/assets/ed6611e9-ec7c-4ed7-980a-4aee7b3b5f9d" width="220"/>
+</p>
 
-| Home | Instructions | Gameplay |
-<img width="344" height="605" alt="image" src="https://github.com/user-attachments/assets/0c6713be-3762-421e-b657-7e243ece946d" />
-<img width="347" height="603" alt="image" src="https://github.com/user-attachments/assets/27b289d2-6b9b-4990-9b7f-3718392a7fb6" />
-<img width="342" height="606" alt="image" src="https://github.com/user-attachments/assets/ed6611e9-ec7c-4ed7-980a-4aee7b3b5f9d" />
+<p align="center">
+  <b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Instructions</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Gameplay</b>
+</p>
 
-| Level 1 | Level 2 | Game Over |
-<img width="333" height="607" alt="image" src="https://github.com/user-attachments/assets/494225f5-401f-410f-8630-b6379a9683f1" />
-<img width="340" height="604" alt="image" src="https://github.com/user-attachments/assets/b9044519-2d12-42c8-877b-2e5c00fa0e04" />
-<img width="328" height="609" alt="image" src="https://github.com/user-attachments/assets/80d5a3e1-f9fb-4ffd-8d6e-6769886fc4fe" />
+<br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/494225f5-401f-410f-8630-b6379a9683f1" width="220"/>
+  <img src="https://github.com/user-attachments/assets/b9044519-2d12-42c8-877b-2e5c00fa0e04" width="220"/>
+  <img src="https://github.com/user-attachments/assets/80d5a3e1-f9fb-4ffd-8d6e-6769886fc4fe" width="220"/>
+</p>
 
-
+<p align="center">
+  <b>Level 1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Level 2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Game Over</b>
+</p>
 ---
 
 ## 🎥 Demo
